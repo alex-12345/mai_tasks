@@ -1,0 +1,11 @@
+# Задачи по курсу "Искуственный интелект" #
+Студент: **Винников А.В**
+<br>Группа: **М8О-103М-20**
+
+### Лабораторная работа №1 ### 
+
+**[Блокнот с задачей классификации](https://github.com/alex-12345/mai_tasks/tree/master/ml_labs/working_with_ecommerce_data.ipynb)**
+- Первичная обработка данных (+)
+- Визуализация и первичный анализ данных (+)
+
+**[Блокнот с задачей регрессии](https://github.com/alex-12345/mai_tasks/tree/master/ml_labs/working_with_house_data.ipynb)**
