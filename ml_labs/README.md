@@ -15,3 +15,4 @@
 **[Блокнот с задачей регрессии](https://github.com/alex-12345/mai_tasks/tree/master/ml_labs/working_with_house_data.ipynb)**
 - Первичная обработка данных 
 - Визуализация и первичный анализ данных
+- Линейная регрессия
